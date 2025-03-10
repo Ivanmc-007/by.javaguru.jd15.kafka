@@ -12,7 +12,7 @@
 Скачайте файлы проекта через терминал
 
 ```
-https://github.com/Ivanmc-007/by.javaguru.jd15.kafka.git
+git clone https://github.com/Ivanmc-007/by.javaguru.jd15.kafka.git
 ```
 
 ## Installation
